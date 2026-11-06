@@ -1,0 +1,6 @@
+names:
+  0: ok
+  1: defect
+path: D:\AI_ML\edge-inspector\data\yolo_dataset
+train: images/train
+val: images/val
